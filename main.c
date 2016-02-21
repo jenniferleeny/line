@@ -52,4 +52,4 @@ int main() {
   display(s);
   save_extension(s, "lines.png");
 }  
-Status API Training Shop Blog About Pricing
+
