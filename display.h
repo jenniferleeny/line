@@ -8,4 +8,4 @@ void save_extension( screen s, char *file);
 void display( screen s);
 
 #endif
-Status API Training Shop Blog About Pricing
+
